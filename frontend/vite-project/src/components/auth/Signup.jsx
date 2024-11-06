@@ -14,7 +14,7 @@ import { useDispatch, useSelector } from "react-redux";
 import store from "@/redux/store";
 import { setLoading } from "@/redux/authSlice";
 import { useEffect } from "react";
-export default function signup() {
+export default function Signup() {
   const [input, setInput] = useState({
     fullname: "",
     email: "",

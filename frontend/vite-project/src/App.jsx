@@ -1,5 +1,5 @@
 
-import Signup from './components/auth/signup'
+import Signup from './components/auth/Signup.jsx'
 import Login from './components/auth/login'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Navbar from './components/shared/Navbar'
