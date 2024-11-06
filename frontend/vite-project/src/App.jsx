@@ -1,8 +1,8 @@
 
 import Signup from './components/auth/Signup.jsx'
-import Login from './components/auth/login'
+import Login from './components/auth/Login.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Navbar from './components/shared/Navbar'
+
 import Home from "./components/Home.jsx"
 import Jobs from "./components/Jobs.jsx";
 import Browse from './components/Browse'
